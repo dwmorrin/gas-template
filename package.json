@@ -1,0 +1,28 @@
+{
+  "name": "gas-eco",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "google apps script template",
+  "private": true,
+  "dependencies": {
+    "inline-source": "^7.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "eslint-plugin-googleappsscript": "^1.0.4",
+    "eslint-plugin-html": "^6.2.0",
+    "@types/google-apps-script": "^1.0.45"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwmorrin/gas-eco.git"
+  },
+  "author": "dwmorrin@gmail.com",
+  "bugs": {
+    "url": "https://github.com/dwmorrin/gas-template/issues"
+  },
+  "homepage": "https://github.com/dwmorrin/gas-template#readme"
+}

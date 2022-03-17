@@ -1,0 +1,16 @@
+export default {
+  env: {
+    es6: true,
+    node: true,
+  },
+  extends: "eslint:recommended",
+  globals: {
+    Atomics: "readonly",
+    SharedArrayBuffer: "readonly",
+  },
+  parserOptions: {
+    ecmaVersion: "latest",
+    sourceType: "module",
+  },
+  rules: {},
+};
